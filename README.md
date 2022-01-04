@@ -1,6 +1,6 @@
 # project-BootstrapTraining
 
-Front-end website project to use different classes of bootstrap, using a free template for practice.
+Single page website front-end project to use different classes of bootstrap, using a free template for practice.
 
 # Screenshots
 
